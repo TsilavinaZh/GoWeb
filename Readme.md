@@ -5,7 +5,8 @@ Ce projet est un serveur web simple écrit en Go (Golang). Il comprend des route
 
 <img src="images.png" />
 ## Structure du projet
-```
+
+```txt
 GoWeb/
 ├── main.go
 ├── handlers.go
