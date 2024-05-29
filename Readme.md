@@ -15,7 +15,7 @@ GoWeb/
 
 - **main.go**: Le fichier principal qui démarre le serveur.
 - **handlers.go**: Contient les handlers pour les différentes routes.
-- *)
+
 
 
 ## Exécution du serveur
